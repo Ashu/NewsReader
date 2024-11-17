@@ -9,9 +9,11 @@ import SwiftUI
 
 @main
 struct NewsReaderApp: App {
+    @StateObject var bookmarkViewModel = BookmarkViewModel()
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(bookmarkViewModel)
         }
     }
 }

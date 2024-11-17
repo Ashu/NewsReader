@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 34,
+  "articles": [
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Andrew Jeong",
+      "title": "Surge in worldwide measles cases driven by lack of vaccine coverage, WHO says - The Washington Post",
+      "description": "The WHO and CDC say there were about 10.3 million cases of measles last year, up 20 percent from 2022. Children are especially susceptible to complications.",
+      "url": "https://www.washingtonpost.com/health/2024/11/15/measles-vaccine-immunization-cdc-rfk/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WLLDNHUDDDPWGNHBSQBM7X6QSY_size-normalized.jpg&w=1440",
+      "publishedAt": "2024-11-15T12:26:57Z",
+      "content": "An estimated 10.3 million cases of measles occurred worldwide last year, up 20 percent from 2022, primarily because of inadequate immunization coverage, the World Health Organization and the U.S. Cen… [+386 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Nimi Princewill",
+      "title": "South African government refuses to help hundreds of illegal miners in disused shaft - CNN",
+      "description": "Several hundred people are believed to remain in an illegal mine in South Africa after the government cut off vital supplies and refused to help them, in a dramatic bid to crack down on the industry.",
+      "url": "https://www.cnn.com/2024/11/14/africa/south-africa-illegal-miners-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24319371507991.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-11-15T11:16:00Z",
+      "content": "Several hundred people are believed to remain in an illegal mine in South Africa after the government cut off vital supplies and refused to help them, in a dramatic bid to crack down on the industry.… [+4881 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jackie Wattles",
+      "title": "NASA worries space station leaks in Russian module are potentially ‘catastrophic.’ Russia doesn’t seem to agree - CNN",
+      "description": "Leaks are affecting a key part of the International Space Station. NASA and Russia’s space agency, Roscosmos, are not seeing eye to eye about the level of risk.",
+      "url": "https://www.cnn.com/2024/11/15/science/international-space-station-leak-nasa-russia/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/51353322598-4f68034eb8-5k.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-11-15T11:00:00Z",
+      "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nA Russian-controlled segment of the International Spac… [+9206 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Nika Shakhnazarova",
+      "title": "Travis Kelce’s mom Donna reveals whether Taylor Swift will join them for Thanksgiving - New York Post ",
+      "description": "During an appearance on the “Today” show, the mom of two was asked what she has planned for the November holiday.",
+      "url": "https://nypost.com/2024/11/15/sports/travis-kelces-mom-donna-reveals-whether-taylor-swift-will-join-them-for-thanksgiving/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/93688599.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-11-15T10:45:00Z",
+      "content": "Donna Kelce has revealed whether her son Travis Kelce’s girlfriend, Taylor Swift, will be joining their family for Thanksgiving celebrations this year.\r\nDuring an appearance on the Today show Thursda… [+3196 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "KRISHAN FRANCIS, BHARATHA MALLAWARACHI",
+      "title": "Party of Sri Lanka’s new Marxist-leaning president wins two-thirds majority in parliament - The Associated Press",
+      "description": "The party of Sri Lanka’s new Marxist-leaning President Anura Kumara Dissanayake has won a two-thirds majority in parliament, according to official election results, providing a strong mandate for his program for economic revival. Dissanayake’s National People…",
+      "url": "https://apnews.com/article/sri-lanka-election-dissanayake-parliament-a57fb69161d49ebeac77d73568599a4e",
+      "urlToImage": "https://dims.apnews.com/dims4/default/e1648fe/2147483647/strip/true/crop/5568x3132+0+290/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb8%2F58%2Fc030c810c5cc0f97274a0a431398%2F65c1dab801734ec890cd6ed2e62bc5ce",
+      "publishedAt": "2024-11-15T10:27:00Z",
+      "content": "COLOMBO, Sri Lanka (AP) The party of Sri Lankas new Marxist-leaning President Anura Kumara Dissanayake won a two-thirds majority in parliament, according to official election results Friday, providin… [+5163 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Evan Perez, Zachary Cohen, Holmes Lybrand, Kristen Holmes",
+      "title": "Trump’s team skips FBI background checks for some Cabinet picks - CNN",
+      "description": "President-elect Donald Trump’s transition team is bypassing traditional FBI background checks for at least some of his Cabinet picks while using private companies to conduct vetting of potential candidates for administration jobs, people close to the transiti…",
+      "url": "https://www.cnn.com/2024/11/15/politics/security-clearances-fbi-gabbard-gaetz/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gaetz-gabbart-split-111324.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-11-15T10:00:00Z",
+      "content": "President-elect Donald Trumps transition team isbypassing traditional FBI background checks for at least some of his Cabinet picks while using private companies to conduct vetting of potential candid… [+5790 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Nicki Jhabvala",
+      "title": "Eagles stifle Jayden Daniels and the Commanders, take control of NFC East - The Washington Post",
+      "description": "The Commanders’ high-flying offense is grounded for the second straight week, and now the Eagles have control of the division.",
+      "url": "https://www.washingtonpost.com/sports/2024/11/14/commanders-eagles-jayden-daniels/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TS25WDVX4EA5TKG5DZMYU3CSRA_size-normalized.jpg&w=1440",
+      "publishedAt": "2024-11-15T07:58:00Z",
+      "content": "PHILADELPHIA Jayden Daniels sat on the bench wearing a burgundy cap, his right hand mangled and bleeding Thursday night, his left ribs still bruised from a hit he suffered weeks earlier. Terry McLaur… [+137 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Suntimes.com"
+      },
+      "author": "Georgia Nicols",
+      "title": "Horoscope for Friday, November 15, 2024 - Chicago Sun-Times",
+      "description": null,
+      "url": "https://chicago.suntimes.com/horoscopes/2024/11/15/horoscopes-today-friday-november-15-2024",
+      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+      "publishedAt": "2024-11-15T06:02:43Z",
+      "content": "Moon Alert\r\nAvoid shopping or important decisions from 5:45 to 11:30 p.m. Chicago time. After that, the moon moves from Taurus into Gemini. Todays full moon in Taurus peaks at 3:28 p.m. Chicago time.… [+3814 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The A.V. Club"
+      },
+      "author": null,
+      "title": "Billy Bob Thornton is riveting in Taylor Sheridan’s middling oil drama Landman - The A.V. Club",
+      "description": "Billy Bob Thornton is riveting in Taylor Sheridan’s middling oil drama Landman",
+      "url": "https://www.avclub.com/landman-review-tv-paramount-plus",
+      "urlToImage": "https://img.pastemagazine.com/wp-content/avuploads/2024/11/13150219/LANDMAN-review-header.jpeg",
+      "publishedAt": "2024-11-15T06:01:00Z",
+      "content": "Looking back, its odd that Billy Bob Thornton first became famous for the Oscar-winning 1996 indie Sling Blade, a movie where his character mostly communicates in grunts. Thornton is one of the big a… [+7183 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mavs Moneyball"
+      },
+      "author": "Kirk Henderson",
+      "title": "Mavericks vs Jazz Final Score: Dallas falls in Utah, 115-113 - Mavs Moneyball ",
+      "description": "Dallas is off to an embarrassing 5-7 start to the season after losing in Utah",
+      "url": "https://www.mavsmoneyball.com/2024/11/14/24296998/mavericks-vs-jazz-final-score-dallas-loses-utah-115-113-luka-doncic-john-collins-jason-kidd",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ouJiJ3A7RDx3d8cn0EfDmPTsG9g=/0x337:4690x2792/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25734715/2184098849.jpg",
+      "publishedAt": "2024-11-15T04:43:07Z",
+      "content": "The Dallas Mavericks fell to the Utah Jazz on Thursday night, 115-113. John Collins ate up the Mavericks, scoring 28 points and grabbing nine rebounds. Luka Doncic scored 37 points for Dallas but als… [+4631 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Colby Itkowitz",
+      "title": "Trump looks to bypass Senate for polarizing Cabinet picks - The Washington Post",
+      "description": "Experts say the president-elect, in pushing for recess appointments, is asking the Senate to abdicate its constitutional duty to confirm or reject executive branch nominees.",
+      "url": "https://www.washingtonpost.com/politics/2024/11/14/trump-recess-appointments-gaetz-rfk/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5EBVI23TZOYISFRSQOOQPD2JRI_size-normalized.jpg&w=1440",
+      "publishedAt": "2024-11-15T03:22:00Z",
+      "content": "As Donald Trump moves to fill his administration with polarizing figures like former Florida congressman Matt Gaetz and onetime presidential rival Robert F. Kennedy Jr., he may need Congress to heed … [+7697 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Deutsche Welle",
+      "title": "North Korea orders mass production of suicide drones: report - DW (English)",
+      "description": "Kim Jong Un watched a test of suicide drones and wants production of the aerial weapons ramped up. North Korea's latest military operation came as the US, South Korea and Japan engaged in combined military exercises.",
+      "url": "https://www.dw.com/en/north-korea-orders-mass-production-of-suicide-drones-report/a-70785127",
+      "urlToImage": "https://static.dw.com/image/70759502_6.jpg",
+      "publishedAt": "2024-11-15T03:16:13Z",
+      "content": "North Korean leader Kim Jong Un has ordered the \"mass production\" of suicide attack drones, saying the introduction of such unmanned aerial vehicles around the world requires an urgent update of mili… [+1929 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-11-15T02:45:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Sareen Habeshian",
+      "title": "How Trump can impose tariffs without Congress - Axios",
+      "description": "It will be up to Congress to determine whether or not to push back against Trump.",
+      "url": "https://www.axios.com/2024/11/15/trump-tariffs-congress",
+      "urlToImage": "https://images.axios.com/H_TTTp7lNB4nvTFUQGDvlB-drAQ=/0x0:4527x2546/1366x768/2024/11/15/1731636046952.jpg",
+      "publishedAt": "2024-11-15T02:23:38Z",
+      "content": "President-elect Trump has vowed to impose sweeping tariffs with or without the support of Congress.\r\nThe big picture: While setting tariffs is a power typically afforded to Congress, the executive br… [+2655 chars]"
+    },
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "Andreas Hale",
+      "title": "Tyson slaps Paul in face during final stare-down - ESPN",
+      "description": "Mike Tyson and Jake Paul had to be separated by security after Tyson unleashed an open-handed slap to Paul's face at Thursday's weigh-in.",
+      "url": "https://www.espn.com/boxing/story/_/id/42397251/mike-tyson-slaps-jake-paul-face-final-staredown",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fmedia%2Fmotion%2F2024%2F1114%2Fdm_241114_dm_box_mike_tyson_slap1230%2Fdm_241114_dm_box_mike_tyson_slap1230.jpg",
+      "publishedAt": "2024-11-15T02:17:00Z",
+      "content": "DALLAS -- Mike Tyson said that \"the devil himself\" would show up Friday night in his boxing match against Jake Paul. He gave Paul a preview at Thursday's weigh-in.\r\nAfter Tyson weighed in at 233 poun… [+1326 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "JACK DURA",
+      "title": "What to know North Dakota Gov. Doug Burgum, tapped by Trump to run the Interior Department - The Associated Press",
+      "description": "Former President Donald Trump has chosen North Dakota Gov. Doug Burgum to lead the Interior Department. The two-term Republican governor of the sparsely populated state has taken a business-oriented approach to his tenure. He's pushed income tax cuts, technol…",
+      "url": "https://apnews.com/article/trump-doug-burgum-interior-cabinet-2af5f4c0b891a2705c6132fbff16f278",
+      "urlToImage": "https://dims.apnews.com/dims4/default/48d7f5f/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fad%2F28%2F7dd37598404ec2693b234339b6c1%2Faa1419044ca046089964d159016ceaae",
+      "publishedAt": "2024-11-15T02:08:00Z",
+      "content": "BISMARCK, N.D. (AP) Former President Donald Trump has chosen North Dakota Gov. Doug Burgum to head the Interior Department. Some things to know about the two-term Republican governor of a sparsely po… [+3531 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Jarrett Renshaw, Chris Kirkham, Nora Eckert",
+      "title": "Exclusive: Trump's transition team aims to kill Biden EV tax credit - Reuters",
+      "description": "President-elect Donald Trump's transition team is planning to kill the $7,500 consumer tax credit for electric-vehicle purchases as part of broader tax-reform legislation, two sources with direct knowledge of the matter told Reuters.",
+      "url": "https://www.reuters.com/business/autos-transportation/trumps-transition-team-aims-kill-biden-ev-tax-credit-2024-11-14/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/4C7OACSYTVJZTBHS4M5XN5VINY.jpg?auth=a8107205fe5fae0858837d0a8b239bed104d4858d5463b46bb3ed894830c962e&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-11-15T01:59:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Andrew Solender, Juliegrace Brufke",
+      "title": "House Ethics Committee cancels closely watched meeting on Matt Gaetz probe - Axios",
+      "description": "The Republican members met privately on Thursday as Democrats considered whether they can release the report themselves.",
+      "url": "https://www.axios.com/2024/11/15/house-ethics-committee-cancels-matt-gaetz-meeting",
+      "urlToImage": "https://images.axios.com/qDh9gPt1fdx7UffMOXTSRzNZj9I=/0x194:5702x3402/1366x768/2024/11/15/1731632835713.jpg",
+      "publishedAt": "2024-11-15T01:37:14Z",
+      "content": "The Republican-led House Ethics Committee cancelled a planned meeting regarding its investigation of former Rep. Matt Gaetz (R-Fla.), two sources familiar with the matter confirmed to Axios.\r\nWhy it … [+1350 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Ben Lefebvre, Josh Siegel",
+      "title": "Trump’s wildcard Cabinet choices leave oil industry scratching its head - POLITICO",
+      "description": "Some surprise nominees have the sector and lawmakers wondering if the president-elect will seek to install an unexpected person to one of the top energy roles.",
+      "url": "https://www.politico.com/news/2024/11/14/trumps-wildcard-cabinet-choices-oil-industry-00189727",
+      "urlToImage": "https://static.politico.com/1a/5c/71191d2044058aaf12b82f49e34e/trump-73479.jpg",
+      "publishedAt": "2024-11-15T01:23:13Z",
+      "content": "Never saw Zeldin going to EPA, said an industry consultant who was granted anonymity to discuss Trumps transition efforts. It exposes the folly to try and guess Trump nominees.\r\nOne oil industry lawy… [+6200 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vanity Fair"
+      },
+      "author": "Gabriel Sherman",
+      "title": "Trump’s Defense Secretary Pick Pete Hegseth Said to Face Previous Sexual Misconduct Allegation - Vanity Fair",
+      "description": "Sources say Donald Trump’s transition team leadership met with the former Fox News host, who is a left-field pick to head the Department of Defense, about the claims on Thursday.",
+      "url": "https://www.vanityfair.com/news/story/pete-hegseth-misconduct-allegation-meeting",
+      "urlToImage": "https://media.vanityfair.com/photos/673635fda64d5dd8990891b3/16:9/w_1280,c_limit/pete-hegseth.jpg",
+      "publishedAt": "2024-11-15T00:37:56Z",
+      "content": "Donald Trumps transition team scrambled Thursday after Trumps incoming chief of staff Susie Wiles was presented with an allegation that former Fox &amp; Friends cohost Pete Hegseth, Trumps nominee to… [+2317 chars]"
+    }
+  ]
+}
